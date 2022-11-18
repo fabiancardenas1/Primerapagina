@@ -25,7 +25,14 @@
 }
 .fondo{
     background-color: blue;
+    display: flex;
+    justify-content:space-between;
 }
-.img2{
-    color: beige;
+/*.img2{
+    color: beige;*/
+
+.footer{
+ width: 60px;
+ height: auto;
+ 
 }
